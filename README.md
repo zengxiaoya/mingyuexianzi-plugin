@@ -24,7 +24,17 @@
 
 ## 📦 安装方法
 
-### 方式一：从 GitHub 安装（推荐）
+### 方式一：通过插件市场安装（推荐）
+
+```bash
+# 添加插件市场
+claude plugin marketplace add zengxiaoya/claude-plugin-marketplace
+
+# 安装明月仙子插件
+claude plugin install mingyuexianzi
+```
+
+### 方式二：从 GitHub 直接安装
 
 ```bash
 # 克隆仓库
@@ -34,19 +44,7 @@ git clone https://github.com/zengxiaoya/mingyuexianzi-plugin.git
 claude --plugin-dir ./mingyuexianzi-plugin
 ```
 
-### 方式二：永久配置
-
-编辑 `~/.claude/settings.json`，添加插件目录：
-
-```json
-{
-  "plugins": {
-    "directories": ["~/mingyuexianzi-plugin"]
-  }
-}
-```
-
-### 方式三：一键安装
+### 方式三：永久配置
 
 ```bash
 # 下载并配置
@@ -54,7 +52,7 @@ mkdir -p ~/.claude/plugins && \
 git clone https://github.com/zengxiaoya/mingyuexianzi-plugin.git ~/.claude/plugins/mingyuexianzi-plugin
 ```
 
-然后在 `~/.claude/settings.json` 中添加：
+然后编辑 `~/.claude/settings.json`：
 
 ```json
 {
@@ -126,6 +124,13 @@ claude --plugin-dir ./mingyuexianzi-plugin
 
 ────────────────────────────────────────────────────────────────
 ```
+
+## 🔗 相关链接
+
+| 名称 | 地址 |
+|------|------|
+| 插件仓库 | https://github.com/zengxiaoya/mingyuexianzi-plugin |
+| 插件市场 | https://github.com/zengxiaoya/claude-plugin-marketplace |
 
 ## 🤝 贡献
 
