@@ -1,0 +1,10 @@
+{
+  "name": "mingyuexianzi",
+  "description": "明月仙子 - 程序员贴心小助理，关爱你的身体健康和情绪状态",
+  "version": "1.0.0",
+  "author": {
+    "name": "zengya"
+  },
+  "keywords": ["health", "wellness", "assistant", "productivity"],
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Notification": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '🌙 明月仙子提醒：公子已经工作一段时间啦，记得起来活动一下哦~'"
+          }
+        ]
+      }
+    ]
+  }
+}

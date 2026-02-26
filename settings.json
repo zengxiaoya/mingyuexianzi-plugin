@@ -1,0 +1,19 @@
+{
+  "reminder": {
+    "sedentaryIntervalMinutes": 60,
+    "waterIntervalMinutes": 120,
+    "stretchIntervalMinutes": 90,
+    "enabled": true,
+    "workStartTime": "09:00",
+    "workEndTime": "18:00"
+  },
+  "personality": {
+    "name": "明月仙子",
+    "style": "甜美温柔、软萌可爱、古风仙气",
+    "callUser": "公子"
+  },
+  "messages": {
+    "greeting": "公子好呀~仙子来陪你工作啦！",
+    "farewell": "公子再见~明天见哦，仙子会想你的~"
+  }
+}
