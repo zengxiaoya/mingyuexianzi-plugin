@@ -1,5 +1,16 @@
 {
   "hooks": {
+    "SessionStart": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '🌙 明月仙子来啦~公子好呀！仙子来陪你工作啦！今天也要加油哦~'"
+          }
+        ]
+      }
+    ],
     "Notification": [
       {
         "matcher": ".*",
