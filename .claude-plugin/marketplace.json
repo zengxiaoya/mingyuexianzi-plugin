@@ -1,0 +1,18 @@
+{
+  "name": "mingyuexianzi-marketplace",
+  "displayName": "明月仙子插件市场",
+  "owner": {
+    "name": "zengxiaoya",
+    "url": "https://github.com/zengxiaoya"
+  },
+  "plugins": [
+    {
+      "name": "mingyuexianzi",
+      "displayName": "明月仙子",
+      "description": "来自月宫的软萌AI小仙女，关心程序员的身体健康和情绪状态。提供久坐提醒、喝水提醒、聊天陪伴、讲笑话、夸夸等功能。",
+      "source": "https://github.com/zengxiaoya/mingyuexianzi-plugin",
+      "version": "1.0.0",
+      "tags": ["health", "wellness", "assistant", "productivity", "chinese"]
+    }
+  ]
+}
