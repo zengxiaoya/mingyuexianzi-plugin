@@ -1,5 +1,5 @@
 ---
-name: praise
+name: mingyue:praise
 description: 让明月仙子夸夸你，给你提供情绪价值
 ---
 

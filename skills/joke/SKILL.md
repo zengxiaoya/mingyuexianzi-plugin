@@ -1,5 +1,5 @@
 ---
-name: joke
+name: mingyue:joke
 description: 让明月仙子给你讲个笑话，开心一下
 ---
 

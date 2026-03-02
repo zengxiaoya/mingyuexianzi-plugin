@@ -1,5 +1,5 @@
 ---
-name: stretch
+name: mingyue:stretch
 description: 伸展提醒 - 让明月仙子带你做一些简单的伸展运动
 ---
 

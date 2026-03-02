@@ -1,5 +1,5 @@
 ---
-name: water
+name: mingyue:water
 description: 喝水提醒 - 让明月仙子提醒你该喝水了
 ---
 

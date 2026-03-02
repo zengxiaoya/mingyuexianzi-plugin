@@ -1,5 +1,5 @@
 ---
-name: welcome
+name: mingyue:welcome
 description: 上班欢迎语 - 让明月仙子欢迎你开始新的一天工作
 ---
 

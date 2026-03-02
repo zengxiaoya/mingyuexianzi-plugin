@@ -1,5 +1,5 @@
 ---
-name: remind
+name: mingyue:remind
 description: 久坐提醒 - 提醒程序员起来活动一下
 ---
 

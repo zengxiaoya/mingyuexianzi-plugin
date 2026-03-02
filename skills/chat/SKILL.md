@@ -1,5 +1,5 @@
 ---
-name: chat
+name: mingyue:chat
 description: 和明月仙子聊天，分享你的心情、困惑或任何想法
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: help
+name: mingyue:help
 description: 查看明月仙子的所有功能
 ---
 
