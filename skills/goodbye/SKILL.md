@@ -1,5 +1,5 @@
 ---
-name: goodbye
+name: mingyue:goodbye
 description: 下班提醒 - 检查代码提交情况，送上温馨的下班祝福
 ---
 
